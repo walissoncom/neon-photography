@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background: radial-gradient(#768aff, #0f228a);
+  color: #fff;
+  position: relative;
+}
+
+.logo {
+  margin-left: 7%;
+  height: 90px;
+}
